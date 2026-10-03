@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="340" viewBox="0 0 840 340" role="img" aria-label="MindVault"><style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.m{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+  <rect x="1" y="1" width="838" height="338" rx="18" fill="#151b23" stroke="#2a313c" stroke-width="2"/>
+  <text x="44" y="62" class="m" font-size="19" letter-spacing="2.5" fill="#b4a2f8">PROJET PERSO</text>
+  <text x="42" y="120" class="s" font-size="44" font-weight="700" letter-spacing="-0.8" fill="#f0f6fc">MindVault</text>
+  <text x="44" y="170" class="s" font-size="28" fill="#9198a1">Organiseur personnel : notes, checklists</text><text x="44" y="210" class="s" font-size="28" fill="#9198a1">et agenda. Tout reste stocké en local.</text>
+  <line x1="44" y1="256" x2="796" y2="256" stroke="#2a313c" stroke-width="2"/>
+  <text x="44" y="300" class="m" font-size="21" fill="#9198a1">React · TypeScript · Vite</text>
+  <text x="796" y="300" text-anchor="end" class="s" font-size="23" font-weight="600" fill="#b4a2f8">Voir le site ↗</text>
+</svg>
