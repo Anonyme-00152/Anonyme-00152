@@ -1,130 +1,29 @@
-<!-- ─────────────── BANNIÈRE ─────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ebubekir%20ARTI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Développeur%20Full-Stack%20·%20TypeScript%20·%20React&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" width="100%" alt="Ebubekir Arti — Développeur full-stack">
+</picture>
 
-<!-- ─────────────── TEXTE ANIMÉ ─────────────── -->
-<p align="center">
-  <a href="https://github.com/Anonyme-00152">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Je+transforme+des+id%C3%A9es+en+produits;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Des+interfaces+modernes+et+soign%C3%A9es" alt="Texte animé"/>
-  </a>
-</p>
+<br>
 
-<!-- ─────────────── BADGES ─────────────── -->
-<p align="center">
-  <a href="https://github.com/Anonyme-00152?tab=followers"><img src="https://img.shields.io/github/followers/Anonyme-00152?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=302b63" alt="Followers"/></a>
-  <a href="https://github.com/Anonyme-00152?tab=repositories"><img src="https://img.shields.io/github/stars/Anonyme-00152?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=6d28d9&affiliations=OWNER" alt="Stars"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Anonyme-00152&style=for-the-badge&color=7c3aed&label=VISITES" alt="Visites du profil"/>
-</p>
+Je développe des sites et des applications web avec React, Next.js et TypeScript. J'aime les interfaces rapides, lisibles et soignées dans le détail.
 
-<br/>
+En ce moment, je travaille sur **MindVault**, un organiseur personnel qui fonctionne entièrement en local, et je réalise des sites vitrines pour des artisans et des petites entreprises.
 
-<!-- ─────────────── À PROPOS ─────────────── -->
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23a78bfa&height=24" height="24" alt=""/> À propos
+### Projets
 
-<table>
-<tr>
-<td width="56%" valign="top">
+<a href="https://gestion-application.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mindvault-dark.svg"><img src="./assets/mindvault-light.svg" width="49%" alt="MindVault"></picture></a>
+<a href="https://halo-headphones.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/halo-dark.svg"><img src="./assets/halo-light.svg" width="49%" alt="HALO"></picture></a>
+<a href="https://nord-est-elec.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nord-est-elec-dark.svg"><img src="./assets/nord-est-elec-light.svg" width="49%" alt="Nord Est Elec"></picture></a>
+<a href="https://deploy-my-code-084d89d2.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/petit-bac-dark.svg"><img src="./assets/petit-bac-light.svg" width="49%" alt="Petit Bac"></picture></a>
 
-```ts
-const ebubekir = {
-  role:     "Développeur Full-Stack",
-  basé:     "France",
-  front:    ["React", "Next.js", "Tailwind CSS"],
-  back:     ["Supabase", "Prisma", "Node.js"],
-  aussi:    ["Python", "C#", "PowerShell"],
-  passion:  ["Outils dev", "UI soignées", "Performance"],
-};
-```
+<sub>Code source : [mindvault](https://github.com/Anonyme-00152/mindvault) · [halo](https://github.com/Anonyme-00152/halo) · [nord-est-elec](https://github.com/Anonyme-00152/nord-est-elec) · [petit-bac](https://github.com/Anonyme-00152/petit-bac) · [aetheris-vault](https://github.com/Anonyme-00152/aetheris-vault)</sub>
 
-</td>
-<td width="44%" valign="top">
+### Outils
 
-- <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, une app d'organisation perso (notes, agenda), 100 % locale
-- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je réalise des sites pour des clients, comme **[Nord Est Elec](https://nord-est-elec.vercel.app)**
-- <img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'aime les interfaces modernes et animées
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'apprends en continu : SaaS, outils Windows
-- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Ouvert aux collaborations open source
+**Front-end** — React, Next.js, TypeScript, Tailwind CSS, GSAP<br>
+**Back-end** — Node.js, Supabase, Prisma, PostgreSQL<br>
+**Aussi** — Python, C#, PowerShell, Git, Vercel
 
-</td>
-</tr>
-</table>
+### Contact
 
-<!-- ─────────────── STACK ─────────────── -->
-## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23a78bfa&height=24" height="24" alt=""/> Stack technique
-
-<p align="center"><b>Langages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,html,css,powershell&theme=dark" alt="Langages"/>
-</p>
-
-<p align="center"><b>Front-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end"/>
-</p>
-
-<p align="center"><b>Back-end & données</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,prisma,vercel&theme=dark" alt="Back-end"/>
-</p>
-
-<p align="center"><b>Outils</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" alt="Outils"/>
-</p>
-
-<!-- ─────────────── PROJETS ─────────────── -->
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a78bfa&height=24" height="24" alt=""/> Projets phares
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Anonyme-00152/Gestion-Application"><img src="./profile/pin-1.svg" alt="MindVault"/></a>
-  <br/>
-  <a href="https://gestion-application.vercel.app/"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Anonyme-00152/halo-headphones"><img src="./profile/pin-2.svg" alt="HALO"/></a>
-  <br/>
-  <a href="https://halo-headphones.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/Anonyme-00152/Bacalaureat"><img src="./profile/pin-3.svg" alt="Baccalauréat en Ligne"/></a>
-  <br/>
-  <a href="https://deploy-my-code-084d89d2.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/Anonyme-00152/password-generator-and-manage"><img src="./profile/pin-4.svg" alt="Aetheris Vault"/></a>
-  <br/>
-  <a href="https://password-generator-one-theta-38.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
-</td>
-</tr>
-</table>
-
-<!-- ─────────────── STATS ─────────────── -->
-## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23a78bfa&height=24" height="24" alt=""/> Statistiques GitHub
-
-<p align="center">
-  <img src="./profile/stats.svg" height="175" alt="Stats GitHub"/>
-  <img src="./profile/top-langs.svg" height="175" alt="Langages les plus utilisés"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anonyme-00152&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&date_format=j%20M%5B%20Y%5D" alt="Série de contributions"/>
-</p>
-
-<!-- ─────────────── SNAKE ─────────────── -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anonyme-00152/Anonyme-00152/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anonyme-00152/Anonyme-00152/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Anonyme-00152/Anonyme-00152/output/snake-dark.svg" alt="Snake mangeant les contributions"/>
-  </picture>
-</p>
-
-<!-- ─────────────── PIED DE PAGE ─────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Pied de page"/>
-</p>
+Une idée de site, une mission ou une question ? [Écris-moi ici](https://github.com/Anonyme-00152/Anonyme-00152/issues/new), je réponds rapidement.
