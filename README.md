@@ -1,12 +1,12 @@
 <!-- ─────────────── BANNIÈRE ─────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ebubekir%20ARTI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Développeur%20Full-Stack%20·%20TypeScript%20·%20IA&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ebubekir%20ARTI&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Développeur%20Full-Stack%20·%20TypeScript%20·%20React&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Bannière"/>
 </p>
 
 <!-- ─────────────── TEXTE ANIMÉ ─────────────── -->
 <p align="center">
   <a href="https://github.com/Anonyme-00152">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Je+transforme+des+id%C3%A9es+en+produits;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Je+construis+des+apps+boost%C3%A9es+%C3%A0+l%27IA" alt="Texte animé"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Je+transforme+des+id%C3%A9es+en+produits;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Des+interfaces+modernes+et+soign%C3%A9es" alt="Texte animé"/>
   </a>
 </p>
 
@@ -33,17 +33,17 @@ const ebubekir = {
   front:    ["React", "Next.js", "Tailwind CSS"],
   back:     ["Supabase", "Prisma", "Node.js"],
   aussi:    ["Python", "C#", "PowerShell"],
-  passion:  ["IA", "Outils dev", "UI soignées"],
+  passion:  ["Outils dev", "UI soignées", "Performance"],
 };
 ```
 
 </td>
 <td width="44%" valign="top">
 
-- <img src="https://api.iconify.design/lucide/brain.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, un assistant perso avec notes, agenda et IA, 100 % local
+- <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, une app d'organisation perso (notes, agenda), 100 % locale
 - <img src="https://api.iconify.design/lucide/square-terminal.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Créateur de **[Crimson-Wolf](https://github.com/Anonyme-00152/Crimson-Wolf)**
 - <img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'aime les interfaces modernes et animées
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'apprends en continu : IA, SaaS, outils Windows
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'apprends en continu : SaaS, outils Windows
 - <img src="https://api.iconify.design/lucide/handshake.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Ouvert aux collaborations open source
 
 </td>
