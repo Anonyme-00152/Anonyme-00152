@@ -6,7 +6,7 @@
 <!-- ─────────────── TEXTE ANIMÉ ─────────────── -->
 <p align="center">
   <a href="https://github.com/Anonyme-00152">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Je+transforme+des+idées+en+produits+;React+·+Next.js+·+TypeScript+·+Python;Je+construis+des+apps+boostées+à+l'IA" alt="Texte animé"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Je+transforme+des+id%C3%A9es+en+produits;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Python;Je+construis+des+apps+boost%C3%A9es+%C3%A0+l%27IA" alt="Texte animé"/>
   </a>
 </p>
 
