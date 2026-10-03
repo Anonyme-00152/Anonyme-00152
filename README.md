@@ -20,7 +20,7 @@
 <br/>
 
 <!-- ─────────────── À PROPOS ─────────────── -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> À propos
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23a78bfa&height=24" height="24" alt=""/> À propos
 
 <table>
 <tr>
@@ -29,7 +29,7 @@
 ```ts
 const ebubekir = {
   role:     "Développeur Full-Stack",
-  basé:     "France 🇫🇷",
+  basé:     "France",
   front:    ["React", "Next.js", "Tailwind CSS"],
   back:     ["Supabase", "Prisma", "Node.js"],
   aussi:    ["Python", "C#", "PowerShell"],
@@ -40,18 +40,18 @@ const ebubekir = {
 </td>
 <td width="44%" valign="top">
 
-- 🧠 Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, un assistant perso avec notes, agenda et IA, 100 % local
-- 🐺 Créateur de **[Crimson-Wolf](https://github.com/Anonyme-00152/Crimson-Wolf)** ⭐
-- 🎨 J'aime les interfaces modernes et animées
-- 🌱 J'apprends en continu : IA, SaaS, outils Windows
-- 🤝 Ouvert aux collaborations open source
+- <img src="https://api.iconify.design/lucide/brain.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, un assistant perso avec notes, agenda et IA, 100 % local
+- <img src="https://api.iconify.design/lucide/square-terminal.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Créateur de **[Crimson-Wolf](https://github.com/Anonyme-00152/Crimson-Wolf)**
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'aime les interfaces modernes et animées
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'apprends en continu : IA, SaaS, outils Windows
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Ouvert aux collaborations open source
 
 </td>
 </tr>
 </table>
 
 <!-- ─────────────── STACK ─────────────── -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"/> Stack technique
+## <img src="https://api.iconify.design/lucide/code-xml.svg?color=%23a78bfa&height=24" height="24" alt=""/> Stack technique
 
 <p align="center"><b>Langages</b></p>
 <p align="center">
@@ -74,7 +74,7 @@ const ebubekir = {
 </p>
 
 <!-- ─────────────── PROJETS ─────────────── -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/> Projets phares
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a78bfa&height=24" height="24" alt=""/> Projets phares
 
 <p align="center">
   <a href="https://github.com/Anonyme-00152/Gestion-Application"><img src="./profile/pin-1.svg" width="49%" alt="MindVault"/></a>
@@ -82,7 +82,7 @@ const ebubekir = {
 </p>
 
 <!-- ─────────────── STATS ─────────────── -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> Statistiques GitHub
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23a78bfa&height=24" height="24" alt=""/> Statistiques GitHub
 
 <p align="center">
   <img src="./profile/stats.svg" height="175" alt="Stats GitHub"/>
