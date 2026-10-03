@@ -41,7 +41,7 @@ const ebubekir = {
 <td width="44%" valign="top">
 
 - <img src="https://api.iconify.design/lucide/notebook-pen.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je développe **[MindVault](https://github.com/Anonyme-00152/Gestion-Application)**, une app d'organisation perso (notes, agenda), 100 % locale
-- <img src="https://api.iconify.design/lucide/square-terminal.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Créateur de **[Crimson-Wolf](https://github.com/Anonyme-00152/Crimson-Wolf)**
+- <img src="https://api.iconify.design/lucide/briefcase.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Je réalise des sites pour des clients, comme **[Nord Est Elec](https://nord-est-elec.vercel.app)**
 - <img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'aime les interfaces modernes et animées
 - <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;J'apprends en continu : SaaS, outils Windows
 - <img src="https://api.iconify.design/lucide/handshake.svg?color=%23a78bfa&height=16" height="16" alt=""/>&nbsp;Ouvert aux collaborations open source
@@ -76,10 +76,32 @@ const ebubekir = {
 <!-- ─────────────── PROJETS ─────────────── -->
 ## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23a78bfa&height=24" height="24" alt=""/> Projets phares
 
-<p align="center">
-  <a href="https://github.com/Anonyme-00152/Gestion-Application"><img src="./profile/pin-1.svg" width="49%" alt="MindVault"/></a>
-  <a href="https://github.com/Anonyme-00152/Crimson-Wolf"><img src="./profile/pin-2.svg" width="49%" alt="Crimson-Wolf"/></a>
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Anonyme-00152/Gestion-Application"><img src="./profile/pin-1.svg" alt="MindVault"/></a>
+  <br/>
+  <a href="https://gestion-application.vercel.app/"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Anonyme-00152/halo-headphones"><img src="./profile/pin-2.svg" alt="HALO"/></a>
+  <br/>
+  <a href="https://halo-headphones.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/Anonyme-00152/Bacalaureat"><img src="./profile/pin-3.svg" alt="Baccalauréat en Ligne"/></a>
+  <br/>
+  <a href="https://deploy-my-code-084d89d2.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/Anonyme-00152/password-generator-and-manage"><img src="./profile/pin-4.svg" alt="Aetheris Vault"/></a>
+  <br/>
+  <a href="https://password-generator-one-theta-38.vercel.app"><img src="https://img.shields.io/badge/D%C3%A9mo-en%20ligne-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Démo en ligne"/></a>
+</td>
+</tr>
+</table>
 
 <!-- ─────────────── STATS ─────────────── -->
 ## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23a78bfa&height=24" height="24" alt=""/> Statistiques GitHub
