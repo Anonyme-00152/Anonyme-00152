@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >halo-headphones</text>
+      >password-generator-and-manage</text>
     </g>
       </g>
     
@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">HALO &#8212; landing page concept d&#39;un casque sans fil :</tspan><tspan dy="1.2em" x="25">animations GSAP, Lottie et scroll fluide</tspan>
+      <tspan dy="1.2em" x="25">Aetheris Vault &#8212; g&#233;n&#233;rateur et coffre-fort de mots de passe</tspan><tspan dy="1.2em" x="25">100 % local, chiffr&#233; dans le navigateur</tspan>
     </text>
 
     <g transform="translate(30, 65)">

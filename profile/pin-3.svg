@@ -109,7 +109,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >halo-headphones</text>
+      >Bacalaureat</text>
     </g>
       </g>
     
@@ -122,14 +122,14 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">HALO &#8212; landing page concept d&#39;un casque sans fil :</tspan><tspan dy="1.2em" x="25">animations GSAP, Lottie et scroll fluide</tspan>
+      <tspan dy="1.2em" x="25">Baccalaur&#233;at en Ligne &#8212; le jeu du Petit Bac en solo ou</tspan><tspan dy="1.2em" x="25">multijoueur (salons priv&#233;s) &#183; React, TanStack, Supabase</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#e34c26" />
-      <text data-testid="lang-name" class="gray" x="15">HTML</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3178c6" />
+      <text data-testid="lang-name" class="gray" x="15">TypeScript</text>
     </g>
     </g>
     </g>
